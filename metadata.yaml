@@ -1,0 +1,43 @@
+_repo: Alcibiade-la-critica-e-il-secolo-di-Pericle-lettera-di-Felice-Cavallotti-a-Yorick-figlio-di-Y__62384
+_version: 0.0.1
+contributor:
+  other_contributor:
+    agent_name: Yorick
+    aliases:
+    - Ferrigni, P. C. (Pietro Coccoluto)
+    - Coccoluto Ferrigni, Pietro
+    - Ferrigni, Pietro Coccoluto
+    - Yorick, figlio di Yorick
+    birthdate: 1836
+    deathdate: 1895
+    gutenberg_agent_id: '51907'
+    url: http://www.gutenberg.org/2009/agents/51907
+    wikipedia: https://it.wikipedia.org/wiki/Pietro_Coccoluto_Ferrigni
+creator:
+  author:
+    agent_name: Cavallotti, Felice
+    alias: Cavallotti, Felice Carlo Emanuele
+    birthdate: 1842
+    deathdate: 1898
+    gutenberg_agent_id: '50823'
+    url: http://www.gutenberg.org/2009/agents/50823
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Felice_Cavallotti
+    - https://it.wikipedia.org/wiki/Felice_Cavallotti
+description: ''
+gutenberg_bookshelf: IT Teatro in prosa
+gutenberg_issued: '2020-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62384'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cavallotti, Felice, 1842-1898. Alcibiade'
+- !lcc 'PQ'
+- GITenberg
+title: "Alcibiade, la critica e il secolo di Pericle\r\nlettera di Felice Cavallotti\
+  \ a Yorick figlio di Yorick"
+url: http://www.gutenberg.org/ebooks/62384
